@@ -13,3 +13,5 @@ This upcoming summer, I will be an Investment Banking Summer Analyst for Citigro
 This is an infographic of the 2016 Lehigh First-Year Class.
 ![Infographic of 2016 Lehigh First-Year Class](https://github.com/petergormley/petergormley.github.io/blob/master/2016LehighMajors.png?raw=true)
 
+Timeline of 2016 Rio Olympics
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pX2KXlPFB6nQvSXqAA81E5IOJ28Z-pKszQHXnzGS7fk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
