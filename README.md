@@ -14,7 +14,7 @@ This is an infographic of the 2016 Lehigh First-Year Class.
 ![Infographic of 2016 Lehigh First-Year Class](https://github.com/petergormley/petergormley.github.io/blob/master/2016LehighMajors.png?raw=true)
 
 Is Kobe the Greatest Laker of All-Time?
-![Kobe](https://github.com/petergormley/petergormley.github.io/blob/master/Is%20Kobe%20the%20Greatest%20Laker%20of%20All%20Time-.png?raw=true)
+![Kobe](https://github.com/petergormley/petergormley.github.io/blob/master/Is%20Kobe%20the%20Greatest%20Laker%20of%20All%20Time-%20(1).png?raw=true)
 
 Timeline of 2016 Rio Olympics
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1pX2KXlPFB6nQvSXqAA81E5IOJ28Z-pKszQHXnzGS7fk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
