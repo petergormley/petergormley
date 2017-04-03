@@ -23,3 +23,4 @@ Timeline of the 2016-2017 University of Michigan Basketball Team.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VFLpZYCa7MbOQK3RBPq4ESaMAlLT_nUuQVOf_rqyRck&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 Chart of Lehigh Undergraduate Enrollment
+![Lehigh](https://github.com/petergormley/petergormley.github.io/blob/master/Which_Colleges_Are_Lehigh_Students_Enrolled_In-_2016_Undergraduate_Enrollment_chartbuilder.png?raw=true)
