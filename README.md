@@ -29,7 +29,7 @@ Lehigh Undergraduate Enrollment Over The Past Ten Years
 ![Undergrad](https://github.com/petergormley/petergormley.github.io/blob/master/Lehigh_Undergraduate_Enrollment_Over_The_Past_Ten_Years_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
 Increasing NBA Three Pointers Per Game
-![NBA](https://github.com/petergormley/petergormley.github.io/blob/master/Increasing_Three_Pointers_in_NBA_Per_Game_Three_Pointers_Made_chartbuilder.png?raw=true)
+![NBA](https://github.com/petergormley/petergormley.github.io/blob/master/Increasing_NBA_Three_Pointers_Made_Each_Year_Three_Pointers_Made_chartbuilder.png?raw=true)
 
 Map of Butterflies
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1gPu6xTGn1xE4p35BRKE7-OjSaMOXN1UFIyUSipzv&amp;viz=MAP&amp;h=false&amp;lat=10.902224578468408&amp;lng=-85.43183000000005&amp;t=1&amp;z=11&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
