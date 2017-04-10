@@ -22,7 +22,6 @@ Timeline of 2016 Rio Olympics
 Timeline of the 2016-2017 University of Michigan Basketball Team.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VFLpZYCa7MbOQK3RBPq4ESaMAlLT_nUuQVOf_rqyRck&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-
 Chart of Lehigh Undergraduate Enrollment
 ![Lehigh](https://github.com/petergormley/petergormley.github.io/blob/master/Which_Colleges_Are_Lehigh_Students_Enrolled_In-_2016_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
@@ -31,3 +30,6 @@ Lehigh Undergraduate Enrollment Over The Past Ten Years
 
 Increasing NBA Three Pointers Per Game
 ![NBA](https://github.com/petergormley/petergormley.github.io/blob/master/Increasing_Three_Pointers_in_NBA_Per_Game_Three_Pointers_Made_chartbuilder.png?raw=true)
+
+Map of Butterflies
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1MVIMuYg0OOt3evWx2qZrm8FEwESXtT2tjOMmb0BS&amp;viz=MAP&amp;h=false&amp;lat=10.869267599665697&amp;lng=-85.43183000000005&amp;t=1&amp;z=12&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
