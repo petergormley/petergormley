@@ -28,3 +28,6 @@ Chart of Lehigh Undergraduate Enrollment
 
 Lehigh Undergraduate Enrollment Over The Past Ten Years
 ![Undergrad](https://github.com/petergormley/petergormley.github.io/blob/master/Lehigh_Undergraduate_Enrollment_Over_The_Past_Ten_Years_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
+
+Increasing NBA Three Pointers Per Game
+![NBA](https://github.com/petergormley/petergormley.github.io/blob/master/Increasing_Three_Pointers_in_NBA_Per_Game_Three_Pointers_Made_chartbuilder.png?raw=true)
