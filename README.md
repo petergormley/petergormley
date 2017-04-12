@@ -33,3 +33,6 @@ Increasing NBA Three Pointers Per Game
 
 Map of Butterflies
 <iframe width="1000" height="600" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1gPu6xTGn1xE4p35BRKE7-OjSaMOXN1UFIyUSipzv&amp;viz=MAP&amp;h=false&amp;lat=10.902224578468408&amp;lng=-85.43183000000005&amp;t=1&amp;z=11&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
+
+Map of Arts Centers in Bethlehem
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1WLVG8itVifiwJ06DIsj-u1_3deG9zmtS1qmfv7zo&amp;viz=MAP&amp;h=false&amp;lat=40.61099010376342&amp;lng=-75.37297903518066&amp;t=1&amp;z=16&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
