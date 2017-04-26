@@ -10,7 +10,7 @@ This upcoming summer, I will be an Investment Banking Summer Analyst for Citigro
 
 [Here](https://www.linkedin.com/in/peter-gormley-ba248210b) is my LinkedIn page.
 
-<iframe src="//www.pixton.com/embed/butp1u46" frameborder="0" width="100%" height="384" allowfullscreen></iframe>
+https://github.com/petergormley/petergormley.github.io/blob/master/Screen%20Shot%202017-04-26%20at%203.36.09%20PM.png?raw=true
 
 This is an infographic of the 2016 Lehigh First-Year Class.
 ![Infographic of 2016 Lehigh First-Year Class](https://github.com/petergormley/petergormley.github.io/blob/master/2016LehighMajors.png?raw=true)
