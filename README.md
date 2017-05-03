@@ -31,7 +31,7 @@ Chart of Lehigh Undergraduate Enrollment
 Lehigh Undergraduate Enrollment Over The Past Ten Years
 ![Undergrad](https://github.com/petergormley/petergormley.github.io/blob/master/Lehigh_Undergraduate_Enrollment_Over_The_Past_Ten_Years_Arts_&_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
-Increasing NBA Three Pointers Per Game
+NBA teams are shooting more and more threes per game. Here is a chart representing how many threes are made each game per season.
 ![NBA](https://github.com/petergormley/petergormley.github.io/blob/master/Increasing_NBA_Three_Pointers_Made_Each_Year_Three_Pointers_Made_chartbuilder.png?raw=true)
 
 Map of Butterflies
